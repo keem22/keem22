@@ -10,3 +10,6 @@ Information Technology Projects:</h2>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/keem22/azure-network-protocols)
 
 Connect with me:
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
